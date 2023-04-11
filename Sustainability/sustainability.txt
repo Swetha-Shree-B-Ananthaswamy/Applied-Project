@@ -1,0 +1,68 @@
+Row ID				=> not required
+Site				=> City of Mesa facility that is being analyzed 
+Year				=> Billing year of solar production
+Month				=> Month name for reporting purposes(drop it)
+Month Date			=> Date of billing month for reporting purposes (drop it)
+Usage Charges			=> Electricity charges for current month from Salt River Project (SRP) for each building site.(money estu electricity ge)
+kW				=> Indicator for monthly energy demand at a City of Mesa site with solar production (demand est idde solar production ge)
+Solar Production		=> Monthly solar production at a City of Mesa solar site(monthly estu solar produce aguthe)
+Total Building Energy 		=> Total energy use (kWh) by City Buildings 
+
+Time of Use Plan Flag		=>This is a Yes/No field identifying whether the building used SRP’s “Time-of-Use” Plan.(Not required) 
+On Peak kWh			=> Demand for electricity is higher during high usage times
+Shoulder Peak kWh		=> A period that precedes or follows regular peaks of heavy use or service.
+Off Peak kWh			=> Demand for electricity is lower during low usage times
+Total Net Billable		=> The total cost of a monthly SRP bill, including energy and service costs, as well as savings associated with solar production.
+Solar Savings			=> Total dollars saved resulting from decreased SRP energy demand in favor of onsite solar energy production.
+SRP 				=> Estimated cost of SRP bill if no solar energy was produced onsite, resulting in additional SRP energy demand
+Owner				=> OWner
+
+-------------------------------------------------------------------------------------------------------------------------------------------- 
+
+What sort of columns prediction I can make , 
+What is required and What is not ?
+
+Given these details , what will be the enery consumed in the upcoming month.
+
+
+
+
+Site				=> City of Mesa facility that is being analyzed.
+Month				=> Month name for reporting purposes
+solarProductionDemand 		=> Indicator for monthly energy demand at a City of Mesa site with solar production.
+Solar Production    		=> Monthly solar production at a City of Mesa solar site.
+Total Building Energy 		=> Total energy use (kWh) by City Buildings
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Site(Location Details) Details:-
+
+1. SolFocus		=> solar glass reflector manufacturing factory in Mesa, Arizona
+2. RM Multigen		=> RED Mountain Multi generational center
+3. RM PD		=> RED Mountain Police Division
+4. PD Fiesta Substn     => Fiesta Police division
+5. EMSC and RM Library  => Emergency Medical Services for childrens and Red Mountain Library 
+6.  Fire Stn 220	=> Fire Station
+7.  Fire Stn 221	=> Fire Station
+8.  Fire Stn 222	=> Fire Station
+9.  Fire Stn 223	=> Fire Station
+10. Fire Stn 224	=> Fire Station
+11. Fire Stn 212 PD	=> Fire Station
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
