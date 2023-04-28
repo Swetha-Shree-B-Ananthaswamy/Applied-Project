@@ -1,0 +1,397 @@
+Month Date,Month,Year,Amount Type,Amount,Customer Type,Customer Count
+01/01/2015,Jan,2015,Commercial Therms,1519979,Commercial Count,2199
+01/01/2015,Jan,2015,Interdepartmental Therms,71951,Interdepartmental Count,111
+01/01/2015,Jan,2015,Other Public Authority Therms,334879,Other Public Authority Count,111
+01/01/2015,Jan,2015,Residential Therms,2828117,Residential Count,56595
+02/01/2015,Feb,2015,Commercial Therms,1400902,Commercial Count,2198
+02/01/2015,Feb,2015,Interdepartmental Therms,60689,Interdepartmental Count,111
+02/01/2015,Feb,2015,Other Public Authority Therms,349242,Other Public Authority Count,111
+02/01/2015,Feb,2015,Residential Therms,1778544,Residential Count,56778
+03/01/2015,Mar,2015,Commercial Therms,1315061,Commercial Count,2202
+03/01/2015,Mar,2015,Interdepartmental Therms,50584,Interdepartmental Count,111
+03/01/2015,Mar,2015,Other Public Authority Therms,270704,Other Public Authority Count,111
+03/01/2015,Mar,2015,Residential Therms,1284697,Residential Count,57294
+04/01/2015,Apr,2015,Commercial Therms,1132566,Commercial Count,2224
+04/01/2015,Apr,2015,Interdepartmental Therms,49554,Interdepartmental Count,112
+04/01/2015,Apr,2015,Other Public Authority Therms,236276,Other Public Authority Count,113
+04/01/2015,Apr,2015,Residential Therms,945445,Residential Count,56955
+05/01/2015,May,2015,Commercial Therms,1029277,Commercial Count,2211
+05/01/2015,May,2015,Interdepartmental Therms,51769,Interdepartmental Count,111
+05/01/2015,May,2015,Other Public Authority Therms,242332,Other Public Authority Count,113
+05/01/2015,May,2015,Residential Therms,779920,Residential Count,56775
+06/01/2015,Jun,2015,Commercial Therms,955256,Commercial Count,2206
+06/01/2015,Jun,2015,Interdepartmental Therms,55736,Interdepartmental Count,111
+06/01/2015,Jun,2015,Other Public Authority Therms,237948,Other Public Authority Count,113
+06/01/2015,Jun,2015,Residential Therms,645832,Residential Count,56786
+07/01/2015,Jul,2015,Commercial Therms,793851,Commercial Count,2196
+07/01/2015,Jul,2015,Interdepartmental Therms,56977,Interdepartmental Count,112
+07/01/2015,Jul,2015,Other Public Authority Therms,191389,Other Public Authority Count,113
+07/01/2015,Jul,2015,Residential Therms,482684,Residential Count,56183
+08/01/2015,Aug,2015,Commercial Therms,762333,Commercial Count,2195
+08/01/2015,Aug,2015,Interdepartmental Therms,54882,Interdepartmental Count,111
+08/01/2015,Aug,2015,Other Public Authority Therms,191263,Other Public Authority Count,112
+08/01/2015,Aug,2015,Residential Therms,433633,Residential Count,56240
+09/01/2015,Sep,2015,Commercial Therms,773907,Commercial Count,2205
+09/01/2015,Sep,2015,Interdepartmental Therms,48664,Interdepartmental Count,111
+09/01/2015,Sep,2015,Other Public Authority Therms,197827,Other Public Authority Count,112
+09/01/2015,Sep,2015,Residential Therms,448301,Residential Count,56589
+10/01/2015,Oct,2015,Commercial Therms,806520,Commercial Count,2211
+10/01/2015,Oct,2015,Interdepartmental Therms,53248,Interdepartmental Count,112
+10/01/2015,Oct,2015,Other Public Authority Therms,220607,Other Public Authority Count,112
+10/01/2015,Oct,2015,Residential Therms,506455,Residential Count,56673
+11/01/2015,Nov,2015,Commercial Therms,947908,Commercial Count,2208
+11/01/2015,Nov,2015,Interdepartmental Therms,59358,Interdepartmental Count,113
+11/01/2015,Nov,2015,Other Public Authority Therms,271629,Other Public Authority Count,112
+11/01/2015,Nov,2015,Residential Therms,812889,Residential Count,57327
+12/01/2015,Dec,2015,Commercial Therms,1301989,Commercial Count,2217
+12/01/2015,Dec,2015,Interdepartmental Therms,83449,Interdepartmental Count,113
+12/01/2015,Dec,2015,Other Public Authority Therms,286300,Other Public Authority Count,112
+12/01/2015,Dec,2015,Residential Therms,2021173,Residential Count,57708
+01/01/2016,Jan,2016,Commercial Therms,1504224,Commercial Count,2232
+01/01/2016,Jan,2016,Interdepartmental Therms,93166,Interdepartmental Count,113
+01/01/2016,Jan,2016,Other Public Authority Therms,423736,Other Public Authority Count,113
+01/01/2016,Jan,2016,Residential Therms,3275632,Residential Count,57775
+02/01/2016,Feb,2016,Commercial Therms,1563168,Commercial Count,2241
+02/01/2016,Feb,2016,Interdepartmental Therms,98818,Interdepartmental Count,114
+02/01/2016,Feb,2016,Other Public Authority Therms,422095,Other Public Authority Count,112
+02/01/2016,Feb,2016,Residential Therms,2696591,Residential Count,58131
+03/01/2016,Mar,2016,Commercial Therms,1350672,Commercial Count,2238
+03/01/2016,Mar,2016,Interdepartmental Therms,78050,Interdepartmental Count,112
+03/01/2016,Mar,2016,Other Public Authority Therms,304451,Other Public Authority Count,114
+03/01/2016,Mar,2016,Residential Therms,1361274,Residential Count,58307
+04/01/2016,Apr,2016,Commercial Therms,1158354,Commercial Count,2280
+04/01/2016,Apr,2016,Interdepartmental Therms,69339,Interdepartmental Count,112
+04/01/2016,Apr,2016,Other Public Authority Therms,284560,Other Public Authority Count,113
+04/01/2016,Apr,2016,Residential Therms,1058755,Residential Count,58315
+05/01/2016,May,2016,Commercial Therms,1001418,Commercial Count,2238
+05/01/2016,May,2016,Interdepartmental Therms,59364,Interdepartmental Count,112
+05/01/2016,May,2016,Other Public Authority Therms,269804,Other Public Authority Count,113
+05/01/2016,May,2016,Residential Therms,786413,Residential Count,58016
+06/01/2016,Jun,2016,Commercial Therms,937071,Commercial Count,2252
+06/01/2016,Jun,2016,Interdepartmental Therms,61242,Interdepartmental Count,112
+06/01/2016,Jun,2016,Other Public Authority Therms,238416,Other Public Authority Count,112
+06/01/2016,Jun,2016,Residential Therms,644931,Residential Count,57908
+07/01/2016,Jul,2016,Commercial Therms,805832,Commercial Count,2231
+07/01/2016,Jul,2016,Interdepartmental Therms,57154,Interdepartmental Count,115
+07/01/2016,Jul,2016,Other Public Authority Therms,204207,Other Public Authority Count,113
+07/01/2016,Jul,2016,Residential Therms,497001,Residential Count,57414
+08/01/2016,Aug,2016,Commercial Therms,765875,Commercial Count,2231
+08/01/2016,Aug,2016,Interdepartmental Therms,52603,Interdepartmental Count,115
+08/01/2016,Aug,2016,Other Public Authority Therms,204969,Other Public Authority Count,112
+08/01/2016,Aug,2016,Residential Therms,438416,Residential Count,57491
+09/01/2016,Sep,2016,Commercial Therms,757897,Commercial Count,2229
+09/01/2016,Sep,2016,Interdepartmental Therms,58442,Interdepartmental Count,115
+09/01/2016,Sep,2016,Other Public Authority Therms,218992,Other Public Authority Count,112
+09/01/2016,Sep,2016,Residential Therms,481268,Residential Count,57587
+10/01/2016,Oct,2016,Commercial Therms,871025,Commercial Count,2227
+10/01/2016,Oct,2016,Interdepartmental Therms,63461,Interdepartmental Count,115
+10/01/2016,Oct,2016,Other Public Authority Therms,241116,Other Public Authority Count,112
+10/01/2016,Oct,2016,Residential Therms,568658,Residential Count,57920
+11/01/2016,Nov,2016,Commercial Therms,928775,Commercial Count,2234
+11/01/2016,Nov,2016,Interdepartmental Therms,63854,Interdepartmental Count,115
+11/01/2016,Nov,2016,Other Public Authority Therms,272169,Other Public Authority Count,112
+11/01/2016,Nov,2016,Residential Therms,710558,Residential Count,58461
+12/01/2016,Dec,2016,Commercial Therms,1202908,Commercial Count,2247
+12/01/2016,Dec,2016,Interdepartmental Therms,63685,Interdepartmental Count,116
+12/01/2016,Dec,2016,Other Public Authority Therms,334284,Other Public Authority Count,112
+12/01/2016,Dec,2016,Residential Therms,1509270,Residential Count,58821
+01/01/2017,Jan,2017,Commercial Therms,1429947,Commercial Count,2256
+01/01/2017,Jan,2017,Interdepartmental Therms,113064,Interdepartmental Count,116
+01/01/2017,Jan,2017,Other Public Authority Therms,371933,Other Public Authority Count,113
+01/01/2017,Jan,2017,Residential Therms,2284325,Residential Count,59047
+02/01/2017,Feb,2017,Commercial Therms,1442389,Commercial Count,2245
+02/01/2017,Feb,2017,Interdepartmental Therms,49390,Interdepartmental Count,117
+02/01/2017,Feb,2017,Other Public Authority Therms,380007,Other Public Authority Count,113
+02/01/2017,Feb,2017,Residential Therms,2344598,Residential Count,59265
+03/01/2017,Mar,2017,Commercial Therms,1316079,Commercial Count,2254
+03/01/2017,Mar,2017,Interdepartmental Therms,35990,Interdepartmental Count,116
+03/01/2017,Mar,2017,Other Public Authority Therms,263562,Other Public Authority Count,113
+03/01/2017,Mar,2017,Residential Therms,1555977,Residential Count,59417
+04/01/2017,Apr,2017,Commercial Therms,1124986,Commercial Count,2257
+04/01/2017,Apr,2017,Interdepartmental Therms,26145,Interdepartmental Count,115
+04/01/2017,Apr,2017,Other Public Authority Therms,279151,Other Public Authority Count,113
+04/01/2017,Apr,2017,Residential Therms,1020892,Residential Count,59781
+05/01/2017,May,2017,Commercial Therms,1043601,Commercial Count,2264
+05/01/2017,May,2017,Interdepartmental Therms,20591,Interdepartmental Count,116
+05/01/2017,May,2017,Other Public Authority Therms,242502,Other Public Authority Count,113
+05/01/2017,May,2017,Residential Therms,802721,Residential Count,59456
+06/01/2017,Jun,2017,Commercial Therms,958155,Commercial Count,2268
+06/01/2017,Jun,2017,Interdepartmental Therms,20110,Interdepartmental Count,114
+06/01/2017,Jun,2017,Other Public Authority Therms,221518,Other Public Authority Count,113
+06/01/2017,Jun,2017,Residential Therms,649898,Residential Count,59515
+07/01/2017,Jul,2017,Commercial Therms,855603,Commercial Count,2262
+07/01/2017,Jul,2017,Interdepartmental Therms,18775,Interdepartmental Count,114
+07/01/2017,Jul,2017,Other Public Authority Therms,219013,Other Public Authority Count,113
+07/01/2017,Jul,2017,Residential Therms,494744,Residential Count,59065
+08/01/2017,Aug,2017,Commercial Therms,795551,Commercial Count,2256
+08/01/2017,Aug,2017,Interdepartmental Therms,19900,Interdepartmental Count,115
+08/01/2017,Aug,2017,Other Public Authority Therms,191226,Other Public Authority Count,113
+08/01/2017,Aug,2017,Residential Therms,453697,Residential Count,59325
+09/01/2017,Sep,2017,Commercial Therms,806883,Commercial Count,2273
+09/01/2017,Sep,2017,Interdepartmental Therms,17375,Interdepartmental Count,115
+09/01/2017,Sep,2017,Other Public Authority Therms,172774,Other Public Authority Count,113
+09/01/2017,Sep,2017,Residential Therms,473449,Residential Count,59512
+10/01/2017,Oct,2017,Commercial Therms,864225,Commercial Count,2266
+10/01/2017,Oct,2017,Interdepartmental Therms,20069,Interdepartmental Count,115
+10/01/2017,Oct,2017,Other Public Authority Therms,228485,Other Public Authority Count,113
+10/01/2017,Oct,2017,Residential Therms,564541,Residential Count,59743
+11/01/2017,Nov,2017,Commercial Therms,982575,Commercial Count,2265
+11/01/2017,Nov,2017,Interdepartmental Therms,19782,Interdepartmental Count,115
+11/01/2017,Nov,2017,Other Public Authority Therms,253371,Other Public Authority Count,112
+11/01/2017,Nov,2017,Residential Therms,735481,Residential Count,60346
+12/01/2017,Dec,2017,Commercial Therms,1194108,Commercial Count,2277
+12/01/2017,Dec,2017,Interdepartmental Therms,20999,Interdepartmental Count,115
+12/01/2017,Dec,2017,Other Public Authority Therms,251168,Other Public Authority Count,112
+12/01/2017,Dec,2017,Residential Therms,1206023,Residential Count,60772
+01/01/2018,Jan,2018,Commercial Therms,1464076,Commercial Count,2281
+01/01/2018,Jan,2018,Interdepartmental Therms,46969,Interdepartmental Count,114
+01/01/2018,Jan,2018,Other Public Authority Therms,288736,Other Public Authority Count,112
+01/01/2018,Jan,2018,Residential Therms,2266780,Residential Count,60942
+02/01/2018,Feb,2018,Commercial Therms,1433611,Commercial Count,2283
+02/01/2018,Feb,2018,Interdepartmental Therms,40184,Interdepartmental Count,116
+02/01/2018,Feb,2018,Other Public Authority Therms,298637,Other Public Authority Count,112
+02/01/2018,Feb,2018,Residential Therms,1915856,Residential Count,61484
+03/01/2018,Mar,2018,Commercial Therms,1518253,Commercial Count,2269
+03/01/2018,Mar,2018,Interdepartmental Therms,48688,Interdepartmental Count,114
+03/01/2018,Mar,2018,Other Public Authority Therms,284006,Other Public Authority Count,112
+03/01/2018,Mar,2018,Residential Therms,2041405,Residential Count,61434
+04/01/2018,Apr,2018,Commercial Therms,1244471,Commercial Count,2274
+04/01/2018,Apr,2018,Interdepartmental Therms,32610,Interdepartmental Count,115
+04/01/2018,Apr,2018,Other Public Authority Therms,245116,Other Public Authority Count,112
+04/01/2018,Apr,2018,Residential Therms,1161747,Residential Count,61461
+05/01/2018,May,2018,Commercial Therms,1058059,Commercial Count,2291
+05/01/2018,May,2018,Interdepartmental Therms,20655,Interdepartmental Count,115
+05/01/2018,May,2018,Other Public Authority Therms,204430,Other Public Authority Count,114
+05/01/2018,May,2018,Residential Therms,815181,Residential Count,61433
+06/01/2018,Jun,2018,Commercial Therms,956184,Commercial Count,2289
+06/01/2018,Jun,2018,Interdepartmental Therms,21743,Interdepartmental Count,115
+06/01/2018,Jun,2018,Other Public Authority Therms,214893,Other Public Authority Count,113
+06/01/2018,Jun,2018,Residential Therms,657052,Residential Count,61452
+07/01/2018,Jul,2018,Commercial Therms,884431,Commercial Count,2278
+07/01/2018,Jul,2018,Interdepartmental Therms,17074,Interdepartmental Count,116
+07/01/2018,Jul,2018,Other Public Authority Therms,210109,Other Public Authority Count,113
+07/01/2018,Jul,2018,Residential Therms,540017,Residential Count,60960
+08/01/2018,Aug,2018,Commercial Therms,807218,Commercial Count,2288
+08/01/2018,Aug,2018,Interdepartmental Therms,13877,Interdepartmental Count,116
+08/01/2018,Aug,2018,Other Public Authority Therms,188279,Other Public Authority Count,114
+08/01/2018,Aug,2018,Residential Therms,460988,Residential Count,61231
+09/01/2018,Sep,2018,Commercial Therms,808471,Commercial Count,2275
+09/01/2018,Sep,2018,Interdepartmental Therms,15575,Interdepartmental Count,116
+09/01/2018,Sep,2018,Other Public Authority Therms,188861,Other Public Authority Count,113
+09/01/2018,Sep,2018,Residential Therms,491184,Residential Count,61239
+10/01/2018,Oct,2018,Commercial Therms,897850,Commercial Count,2301
+10/01/2018,Oct,2018,Interdepartmental Therms,19666,Interdepartmental Count,116
+10/01/2018,Oct,2018,Other Public Authority Therms,215726,Other Public Authority Count,113
+10/01/2018,Oct,2018,Residential Therms,571874,Residential Count,61634
+11/01/2018,Nov,2018,Commercial Therms,1033227,Commercial Count,2291
+11/01/2018,Nov,2018,Interdepartmental Therms,23414,Interdepartmental Count,116
+11/01/2018,Nov,2018,Other Public Authority Therms,238368,Other Public Authority Count,115
+11/01/2018,Nov,2018,Residential Therms,901175,Residential Count,62194
+12/01/2018,Dec,2018,Commercial Therms,1359034,Commercial Count,2281
+12/01/2018,Dec,2018,Interdepartmental Therms,39691,Interdepartmental Count,116
+12/01/2018,Dec,2018,Other Public Authority Therms,319310,Other Public Authority Count,113
+12/01/2018,Dec,2018,Residential Therms,1787697,Residential Count,62527
+01/01/2019,Jan,2019,Commercial Therms,1579631,Commercial Count,2284
+01/01/2019,Jan,2019,Interdepartmental Therms,62853,Interdepartmental Count,116
+01/01/2019,Jan,2019,Other Public Authority Therms,348934,Other Public Authority Count,113
+01/01/2019,Jan,2019,Residential Therms,3150627,Residential Count,62740
+02/01/2019,Feb,2019,Commercial Therms,1614593,Commercial Count,2306
+02/01/2019,Feb,2019,Interdepartmental Therms,58252,Interdepartmental Count,115
+02/01/2019,Feb,2019,Other Public Authority Therms,351051,Other Public Authority Count,113
+02/01/2019,Feb,2019,Residential Therms,2878761,Residential Count,63225
+03/01/2019,Mar,2019,Commercial Therms,1636019,Commercial Count,2299
+03/01/2019,Mar,2019,Interdepartmental Therms,73229,Interdepartmental Count,113
+03/01/2019,Mar,2019,Other Public Authority Therms,363063,Other Public Authority Count,113
+03/01/2019,Mar,2019,Residential Therms,2647772,Residential Count,63329
+04/01/2019,Apr,2019,Commercial Therms,1265627,Commercial Count,2300
+04/01/2019,Apr,2019,Interdepartmental Therms,42071,Interdepartmental Count,113
+04/01/2019,Apr,2019,Other Public Authority Therms,265393,Other Public Authority Count,113
+04/01/2019,Apr,2019,Residential Therms,1281181,Residential Count,63412
+05/01/2019,May,2019,Commercial Therms,1088303,Commercial Count,2303
+05/01/2019,May,2019,Interdepartmental Therms,23322,Interdepartmental Count,113
+05/01/2019,May,2019,Other Public Authority Therms,218082,Other Public Authority Count,113
+05/01/2019,May,2019,Residential Therms,881072,Residential Count,63442
+06/01/2019,Jun,2019,Commercial Therms,1065938,Commercial Count,2294
+06/01/2019,Jun,2019,Interdepartmental Therms,23959,Interdepartmental Count,114
+06/01/2019,Jun,2019,Other Public Authority Therms,236754,Other Public Authority Count,113
+06/01/2019,Jun,2019,Residential Therms,786329,Residential Count,63472
+07/01/2019,Jul,2019,Commercial Therms,918169,Commercial Count,2293
+07/01/2019,Jul,2019,Interdepartmental Therms,18370,Interdepartmental Count,114
+07/01/2019,Jul,2019,Other Public Authority Therms,206994,Other Public Authority Count,113
+07/01/2019,Jul,2019,Residential Therms,603842,Residential Count,63130
+08/01/2019,Aug,2019,Commercial Therms,847082,Commercial Count,2291
+08/01/2019,Aug,2019,Interdepartmental Therms,17813,Interdepartmental Count,114
+08/01/2019,Aug,2019,Other Public Authority Therms,187033,Other Public Authority Count,113
+08/01/2019,Aug,2019,Residential Therms,505441,Residential Count,63311
+09/01/2019,Sep,2019,Commercial Therms,881578,Commercial Count,2301
+09/01/2019,Sep,2019,Interdepartmental Therms,16464,Interdepartmental Count,114
+09/01/2019,Sep,2019,Other Public Authority Therms,187248,Other Public Authority Count,113
+09/01/2019,Sep,2019,Residential Therms,500600,Residential Count,63416
+10/01/2019,Oct,2019,Commercial Therms,939006,Commercial Count,2289
+10/01/2019,Oct,2019,Interdepartmental Therms,14141,Interdepartmental Count,114
+10/01/2019,Oct,2019,Other Public Authority Therms,214410,Other Public Authority Count,113
+10/01/2019,Oct,2019,Residential Therms,612346,Residential Count,63719
+11/01/2019,Nov,2019,Commercial Therms,1105470,Commercial Count,2296
+11/01/2019,Nov,2019,Interdepartmental Therms,17770,Interdepartmental Count,114
+11/01/2019,Nov,2019,Other Public Authority Therms,247941,Other Public Authority Count,113
+11/01/2019,Nov,2019,Residential Therms,899652,Residential Count,64157
+12/01/2019,Dec,2019,Commercial Therms,1355605,Commercial Count,2311
+12/01/2019,Dec,2019,Interdepartmental Therms,28823,Interdepartmental Count,114
+12/01/2019,Dec,2019,Other Public Authority Therms,284905,Other Public Authority Count,113
+12/01/2019,Dec,2019,Residential Therms,1720693,Residential Count,64745
+01/01/2020,Jan,2020,Commercial Therms,1650091,Commercial Count,2305
+01/01/2020,Jan,2020,Interdepartmental Therms,55158,Interdepartmental Count,114
+01/01/2020,Jan,2020,Other Public Authority Therms,358292,Other Public Authority Count,113
+01/01/2020,Jan,2020,Residential Therms,3342271,Residential Count,64928
+02/01/2020,Feb,2020,Commercial Therms,1667000,Commercial Count,2332
+02/01/2020,Feb,2020,Interdepartmental Therms,52604,Interdepartmental Count,114
+02/01/2020,Feb,2020,Other Public Authority Therms,339420,Other Public Authority Count,113
+02/01/2020,Feb,2020,Residential Therms,2936357,Residential Count,65572
+03/01/2020,Mar,2020,Commercial Therms,1614471,Commercial Count,2321
+03/01/2020,Mar,2020,Interdepartmental Therms,52884,Interdepartmental Count,114
+03/01/2020,Mar,2020,Other Public Authority Therms,323244,Other Public Authority Count,118
+03/01/2020,Mar,2020,Residential Therms,2105679,Residential Count,65988
+04/01/2020,Apr,2020,Commercial Therms,1147512,Commercial Count,2303
+04/01/2020,Apr,2020,Interdepartmental Therms,30638,Interdepartmental Count,110
+04/01/2020,Apr,2020,Other Public Authority Therms,229346,Other Public Authority Count,113
+04/01/2020,Apr,2020,Residential Therms,1416712,Residential Count,65377
+05/01/2020,May,2020,Commercial Therms,888397,Commercial Count,2301
+05/01/2020,May,2020,Interdepartmental Therms,22499,Interdepartmental Count,110
+05/01/2020,May,2020,Other Public Authority Therms,176320,Other Public Authority Count,112
+05/01/2020,May,2020,Residential Therms,960133,Residential Count,65734
+06/01/2020,Jun,2020,Commercial Therms,892316,Commercial Count,2335
+06/01/2020,Jun,2020,Interdepartmental Therms,15572,Interdepartmental Count,110
+06/01/2020,Jun,2020,Other Public Authority Therms,179429,Other Public Authority Count,112
+06/01/2020,Jun,2020,Residential Therms,763093,Residential Count,66061
+07/01/2020,Jul,2020,Commercial Therms,913905,Commercial Count,2306
+07/01/2020,Jul,2020,Interdepartmental Therms,16718,Interdepartmental Count,110
+07/01/2020,Jul,2020,Other Public Authority Therms,168871,Other Public Authority Count,112
+07/01/2020,Jul,2020,Residential Therms,635768,Residential Count,65800
+08/01/2020,Aug,2020,Commercial Therms,880524,Commercial Count,2295
+08/01/2020,Aug,2020,Interdepartmental Therms,12744,Interdepartmental Count,110
+08/01/2020,Aug,2020,Other Public Authority Therms,172453,Other Public Authority Count,112
+08/01/2020,Aug,2020,Residential Therms,539150,Residential Count,66040
+09/01/2020,Sep,2020,Commercial Therms,839371,Commercial Count,2298
+09/01/2020,Sep,2020,Interdepartmental Therms,12759,Interdepartmental Count,110
+09/01/2020,Sep,2020,Other Public Authority Therms,195753,Other Public Authority Count,112
+09/01/2020,Sep,2020,Residential Therms,557765,Residential Count,66149
+10/01/2020,Oct,2020,Commercial Therms,937187,Commercial Count,2314
+10/01/2020,Oct,2020,Interdepartmental Therms,12978,Interdepartmental Count,110
+10/01/2020,Oct,2020,Other Public Authority Therms,206596,Other Public Authority Count,113
+10/01/2020,Oct,2020,Residential Therms,655808,Residential Count,66525
+11/01/2020,Nov,2020,Commercial Therms,1062677,Commercial Count,2309
+11/01/2020,Nov,2020,Interdepartmental Therms,14852,Interdepartmental Count,110
+11/01/2020,Nov,2020,Other Public Authority Therms,214927,Other Public Authority Count,113
+11/01/2020,Nov,2020,Residential Therms,956693,Residential Count,66873
+12/01/2020,Dec,2020,Commercial Therms,1309752,Commercial Count,2321
+12/01/2020,Dec,2020,Interdepartmental Therms,28400,Interdepartmental Count,112
+12/01/2020,Dec,2020,Other Public Authority Therms,263375,Other Public Authority Count,113
+12/01/2020,Dec,2020,Residential Therms,1907524,Residential Count,67160
+01/01/2021,Jan,2021,Commercial Therms,1607322,Commercial Count,2329
+01/01/2021,Jan,2021,Interdepartmental Therms,51933,Interdepartmental Count,115
+01/01/2021,Jan,2021,Other Public Authority Therms,349552,Other Public Authority Count,113
+01/01/2021,Jan,2021,Residential Therms,3152898,Residential Count,67157
+02/01/2021,Feb,2021,Commercial Therms,1647008,Commercial Count,2320
+02/01/2021,Feb,2021,Interdepartmental Therms,47822,Interdepartmental Count,114
+02/01/2021,Feb,2021,Other Public Authority Therms,340550,Other Public Authority Count,113
+02/01/2021,Feb,2021,Residential Therms,2757244,Residential Count,67335
+03/01/2021,Mar,2021,Commercial Therms,1530360,Commercial Count,2341
+03/01/2021,Mar,2021,Interdepartmental Therms,38925,Interdepartmental Count,114
+03/01/2021,Mar,2021,Other Public Authority Therms,281563,Other Public Authority Count,115
+03/01/2021,Mar,2021,Residential Therms,2133103,Residential Count,67813
+04/01/2021,Apr,2021,Commercial Therms,1324798,Commercial Count,2341
+04/01/2021,Apr,2021,Interdepartmental Therms,32542,Interdepartmental Count,114
+04/01/2021,Apr,2021,Other Public Authority Therms,248906,Other Public Authority Count,114
+04/01/2021,Apr,2021,Residential Therms,1458999,Residential Count,67596
+05/01/2021,May,2021,Commercial Therms,1159323,Commercial Count,2329
+05/01/2021,May,2021,Interdepartmental Therms,19567,Interdepartmental Count,114
+05/01/2021,May,2021,Other Public Authority Therms,204626,Other Public Authority Count,114
+05/01/2021,May,2021,Residential Therms,999954,Residential Count,67610
+06/01/2021,Jun,2021,Commercial Therms,1064983,Commercial Count,2329
+06/01/2021,Jun,2021,Interdepartmental Therms,17285,Interdepartmental Count,114
+06/01/2021,Jun,2021,Other Public Authority Therms,214093,Other Public Authority Count,114
+06/01/2021,Jun,2021,Residential Therms,807216,Residential Count,67718
+07/01/2021,Jul,2021,Commercial Therms,934571,Commercial Count,2328
+07/01/2021,Jul,2021,Interdepartmental Therms,14354,Interdepartmental Count,114
+07/01/2021,Jul,2021,Other Public Authority Therms,185398,Other Public Authority Count,114
+07/01/2021,Jul,2021,Residential Therms,604001,Residential Count,67374
+08/01/2021,Aug,2021,Commercial Therms,926350,Commercial Count,2343
+08/01/2021,Aug,2021,Interdepartmental Therms,15397,Interdepartmental Count,114
+08/01/2021,Aug,2021,Other Public Authority Therms,192457,Other Public Authority Count,116
+08/01/2021,Aug,2021,Residential Therms,568393,Residential Count,67536
+09/01/2021,Sep,2021,Commercial Therms,944911,Commercial Count,2322
+09/01/2021,Sep,2021,Interdepartmental Therms,14519,Interdepartmental Count,114
+09/01/2021,Sep,2021,Other Public Authority Therms,187183,Other Public Authority Count,116
+09/01/2021,Sep,2021,Residential Therms,583239,Residential Count,67704
+10/01/2021,Oct,2021,Commercial Therms,995262,Commercial Count,2344
+10/01/2021,Oct,2021,Interdepartmental Therms,11551,Interdepartmental Count,114
+10/01/2021,Oct,2021,Other Public Authority Therms,206476,Other Public Authority Count,116
+10/01/2021,Oct,2021,Residential Therms,684976,Residential Count,68140
+11/01/2021,Nov,2021,Commercial Therms,1100430,Commercial Count,2293
+11/01/2021,Nov,2021,Interdepartmental Therms,15469,Interdepartmental Count,113
+11/01/2021,Nov,2021,Other Public Authority Therms,233514,Other Public Authority Count,116
+11/01/2021,Nov,2021,Residential Therms,945362,Residential Count,67299
+12/01/2021,Dec,2021,Commercial Therms,1361773,Commercial Count,2395
+12/01/2021,Dec,2021,Interdepartmental Therms,21708,Interdepartmental Count,115
+12/01/2021,Dec,2021,Other Public Authority Therms,253412,Other Public Authority Count,117
+12/01/2021,Dec,2021,Residential Therms,1490895,Residential Count,69841
+01/01/2022,Jan,2022,Commercial Therms,1572935,Commercial Count,2376
+01/01/2022,Jan,2022,Interdepartmental Therms,48494,Interdepartmental Count,114
+01/01/2022,Jan,2022,Other Public Authority Therms,279587,Other Public Authority Count,116
+01/01/2022,Jan,2022,Residential Therms,2889400,Residential Count,68756
+02/01/2022,Feb,2022,Commercial Therms,1700856,Commercial Count,2345
+02/01/2022,Feb,2022,Interdepartmental Therms,52839,Interdepartmental Count,114
+02/01/2022,Feb,2022,Other Public Authority Therms,337430,Other Public Authority Count,116
+02/01/2022,Feb,2022,Residential Therms,2776341,Residential Count,69101
+03/01/2022,Mar,2022,Commercial Therms,1655468,Commercial Count,2358
+03/01/2022,Mar,2022,Interdepartmental Therms,48251,Interdepartmental Count,115
+03/01/2022,Mar,2022,Other Public Authority Therms,295076,Other Public Authority Count,115
+03/01/2022,Mar,2022,Residential Therms,2333089,Residential Count,69600
+04/01/2022,Apr,2022,Commercial Therms,1376135,Commercial Count,2338
+04/01/2022,Apr,2022,Interdepartmental Therms,37074,Interdepartmental Count,114
+04/01/2022,Apr,2022,Other Public Authority Therms,261960,Other Public Authority Count,115
+04/01/2022,Apr,2022,Residential Therms,1395744,Residential Count,69289
+05/01/2022,May,2022,Commercial Therms,1155240,Commercial Count,2362
+05/01/2022,May,2022,Interdepartmental Therms,24270,Interdepartmental Count,112
+05/01/2022,May,2022,Other Public Authority Therms,231670,Other Public Authority Count,115
+05/01/2022,May,2022,Residential Therms,1028250,Residential Count,69629
+06/01/2022,Jun,2022,Commercial Therms,1075661,Commercial Count,2351
+06/01/2022,Jun,2022,Interdepartmental Therms,18405,Interdepartmental Count,114
+06/01/2022,Jun,2022,Other Public Authority Therms,208343,Other Public Authority Count,115
+06/01/2022,Jun,2022,Residential Therms,816790,Residential Count,69595
+07/01/2022,Jul,2022,Commercial Therms,989067,Commercial Count,2348
+07/01/2022,Jul,2022,Interdepartmental Therms,14702,Interdepartmental Count,112
+07/01/2022,Jul,2022,Other Public Authority Therms,168738,Other Public Authority Count,115
+07/01/2022,Jul,2022,Residential Therms,630238,Residential Count,69256
+08/01/2022,Aug,2022,Commercial Therms,983011,Commercial Count,2358
+08/01/2022,Aug,2022,Interdepartmental Therms,14130,Interdepartmental Count,114
+08/01/2022,Aug,2022,Other Public Authority Therms,187540,Other Public Authority Count,115
+08/01/2022,Aug,2022,Residential Therms,569980,Residential Count,69462
+09/01/2022,Sep,2022,Commercial Therms,924845,Commercial Count,2366
+09/01/2022,Sep,2022,Interdepartmental Therms,11377,Interdepartmental Count,113
+09/01/2022,Sep,2022,Other Public Authority Therms,223599,Other Public Authority Count,115
+09/01/2022,Sep,2022,Residential Therms,585379,Residential Count,69531
+10/01/2022,Oct,2022,Commercial Therms,994945,Commercial Count,2364
+10/01/2022,Oct,2022,Interdepartmental Therms,13117,Interdepartmental Count,113
+10/01/2022,Oct,2022,Other Public Authority Therms,210731,Other Public Authority Count,115
+10/01/2022,Oct,2022,Residential Therms,667446,Residential Count,69844
+11/01/2022,Nov,2022,Commercial Therms,1193779,Commercial Count,2364
+11/01/2022,Nov,2022,Interdepartmental Therms,24522,Interdepartmental Count,113
+11/01/2022,Nov,2022,Other Public Authority Therms,295571,Other Public Authority Count,115
+11/01/2022,Nov,2022,Residential Therms,1220695,Residential Count,70197
+12/01/2022,Dec,2022,Commercial Therms,1503044,Commercial Count,2381
+12/01/2022,Dec,2022,Interdepartmental Therms,54329,Interdepartmental Count,113
+12/01/2022,Dec,2022,Other Public Authority Therms,343104,Other Public Authority Count,115
+12/01/2022,Dec,2022,Residential Therms,2467187,Residential Count,70469
+01/01/2023,Jan,2023,Commercial Therms,1642469,Commercial Count,2381
+01/01/2023,Jan,2023,Interdepartmental Therms,99104,Interdepartmental Count,113
+01/01/2023,Jan,2023,Other Public Authority Therms,373486,Other Public Authority Count,115
+01/01/2023,Jan,2023,Residential Therms,3443053,Residential Count,70539
+02/01/2023,Feb,2023,Commercial Therms,1815965,Commercial Count,2378
+02/01/2023,Feb,2023,Interdepartmental Therms,100033,Interdepartmental Count,113
+02/01/2023,Feb,2023,Other Public Authority Therms,416811,Other Public Authority Count,114
+02/01/2023,Feb,2023,Residential Therms,3856600,Residential Count,71139
+03/01/2023,Mar,2023,Commercial Therms,1728198,Commercial Count,2375
+03/01/2023,Mar,2023,Interdepartmental Therms,103339,Interdepartmental Count,113
+03/01/2023,Mar,2023,Other Public Authority Therms,375949,Other Public Authority Count,114
+03/01/2023,Mar,2023,Residential Therms,2818154,Residential Count,71379
